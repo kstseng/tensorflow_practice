@@ -1,4 +1,4 @@
 # tensorflow_practice
 
-https://www.tensorflow.org/
-http://wiki.jikexueyuan.com/project/tensorflow-zh/
+1. https://www.tensorflow.org/
+2. http://wiki.jikexueyuan.com/project/tensorflow-zh/
